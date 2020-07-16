@@ -1,18 +1,15 @@
 Use this:
 
-
+```
 https://raw.githubusercontent.com/anantshukla/Markers-For-Google-Maps-ZALT/master/images/temp/marker_[color].png
-
 https://raw.githubusercontent.com/anantshukla/Markers-For-Google-Maps-ZALT/master/images/temp/marker_[color][0-99].png
-
 https://raw.githubusercontent.com/anantshukla/Markers-For-Google-Maps-ZALT/master/images/temp/marker_[color][A-Z].png
-
 https://raw.githubusercontent.com/anantshukla/Markers-For-Google-Maps-ZALT/master/images/temp/marker_bike_[color].png
-
 https://raw.githubusercontent.com/anantshukla/Markers-For-Google-Maps-ZALT/master/images/temp/marker_pink_round.png
 
+```
 Colors:
-'''
+```
 Forest Green - 228b22
 Cyan - 00ffff
 Black - #000000
@@ -30,4 +27,4 @@ Brown - B5651D
 Dark Turquoise - #00CED1
 Magenta - FF00FF
 Grey #8c8c8c
-'''
+```
