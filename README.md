@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/anantshukla/Markers-For-Google-Maps-ZALT/maste
 https://raw.githubusercontent.com/anantshukla/Markers-For-Google-Maps-ZALT/master/images/temp/marker_bike_[color].png
 https://raw.githubusercontent.com/anantshukla/Markers-For-Google-Maps-ZALT/master/images/temp/marker_pink_round.png
 
+
+In name 'bike' -> image of truck. Bike to be implemented.
 ```
 Colors:
 ```
